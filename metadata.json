@@ -1,0 +1,8 @@
+{
+  "name": "NXNative Launcher",
+  "description": "Android game pack preparation, static binary rewriter, shader library compiler, GPU driver selector, and OpenGL ES 3.0 runtime launcher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
